@@ -1,4 +1,4 @@
-# ukrainian-translate-
+# ukrainian-translate
 ukrainian translate of stalcraft
 Установка локалізації:
 1. Завантажте з зручного вам сайта локалізацію
